@@ -1,0 +1,7 @@
+selenium
+asyncio
+pyautogui
+numpy
+opencv-python
+soundcard
+soundfile
